@@ -252,7 +252,7 @@ footer {
         font-size: 30px;
         width: 100%;
         text-align: right;
-       
+       margin-left: 20px;
     }
     .bv{
         background-color: rgba(0, 0, 0, 0);
